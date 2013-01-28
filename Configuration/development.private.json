@@ -1,0 +1,7 @@
+{
+    "application":{
+        "mode" : "debug",
+        "cookie_domain": "domain.com"
+    }
+}
+
