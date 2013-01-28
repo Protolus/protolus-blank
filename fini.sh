@@ -14,4 +14,5 @@ mkdir node_modules
 mkdir node_modules/main
 curl -o node_modules/main/package.json https://raw.github.com/Protolus/protolus-blank/master/node_modules/main/package.json
 curl -o node_modules/main/main.js https://raw.github.com/Protolus/protolus-blank/master/node_modules/main/main.js
+curl -o node_modules/main/module.js https://raw.github.com/Protolus/protolus-blank/master/node_modules/main/module.js
 curl -o node_modules/main/main.css https://raw.github.com/Protolus/protolus-blank/master/node_modules/main/main.css
