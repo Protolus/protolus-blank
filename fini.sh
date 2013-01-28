@@ -6,7 +6,7 @@ curl -o App/routes.conf https://raw.github.com/Protolus/protolus-blank/master/Ap
 mkdir App/Controllers
 mkdir App/Panels
 curl -o App/Panels/index.panel.tpl https://raw.github.com/Protolus/protolus-blank/master/App/Panels/index.panel.tpl
-curl -o App/Panels/default.wrapper.tpl https://github.com/Protolus/protolus-blank/blob/master/App/Panels/default.wrapper.tpl
+curl -o App/Panels/default.wrapper.tpl https://raw.github.com/Protolus/protolus-blank/master/App/Panels/default.wrapper.tpl
 mkdir Configuration
 curl -o Configuration/development.private.json https://raw.github.com/Protolus/protolus-blank/master/Configuration/development.private.json
 curl -o Configuration/production.private.json https://raw.github.com/Protolus/protolus-blank/master/Configuration/production.private.json
